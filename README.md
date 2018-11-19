@@ -1,3 +1,7 @@
+<p>
+  <image src="images/icon.png" width="200">
+</p>
+
 # Cheer!
 
 > Let your editor cheer you on while you code!
