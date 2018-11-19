@@ -2,7 +2,7 @@
   "name": "vscode-cheer",
   "displayName": "Cheer",
   "description": "Have your editor cheer you on while you code!",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.29.0"
   },
@@ -34,7 +34,8 @@
   },
   "scripts": {
     "postinstall": "node ./node_modules/vscode/bin/install",
-    "test": "node ./node_modules/vscode/bin/test"
+    "test": "node ./node_modules/vscode/bin/test",
+    "test:mocha": "mocha -u tdd ./test/messages.test.js"
   },
   "publisher": "puregarlic",
   "author": {

@@ -1,13 +1,14 @@
 tasks:
   build:
-    image: node:carbon
+    image: node:10
     command:
       - npm
     args:
       - install
   test:
-    image: node:carbon
+    image: node:10
     command:
-      - yarn
+      - npm
     args:
-      - test
+      - run
+      - test:mocha
