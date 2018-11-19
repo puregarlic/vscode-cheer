@@ -1,0 +1,13 @@
+tasks:
+  build:
+    image: node:carbon
+    command:
+      - npm
+    args:
+      - install
+  test:
+    image: node:carbon
+    command:
+      - yarn
+    args:
+      - test

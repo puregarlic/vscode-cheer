@@ -7,7 +7,7 @@ function activate() {
   console.log('"vscode-cheer" standing by!')
 
   // Make a space for supportive messages
-  vscode.window.createStatusBarItem('left', 5)
+  vscode.window.createStatusBarItem('left', 1)
 
   // On save —
   vscode.workspace.onWillSaveTextDocument(function() {
