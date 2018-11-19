@@ -1,0 +1,42 @@
+{
+  "name": "vscode-cheer",
+  "displayName": "Cheer",
+  "description": "Have your editor cheer you on while you code!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./extension",
+  "contributes": {
+    "configuration": {
+      "title": "Cheer configuration",
+      "properties": {
+        "cheer.emoji": {
+          "type": "boolean",
+          "default": true,
+          "description": "Whether to 🎉 or not"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "postinstall": "node ./node_modules/vscode/bin/install",
+    "test": "node ./node_modules/vscode/bin/test"
+  },
+  "devDependencies": {
+    "typescript": "^2.6.1",
+    "vscode": "^1.1.21",
+    "eslint": "^4.11.0",
+    "@types/node": "^8.10.25",
+    "@types/mocha": "^2.2.42"
+  },
+  "dependencies": {
+    "get-random-from-array": "^1.1.1"
+  }
+}
