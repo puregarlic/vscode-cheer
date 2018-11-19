@@ -1,4 +1,4 @@
-<image src="https://github.com/puregarlic/vscode-cheer/blob/master/images/icon.png?raw=true" width="200">
+![Icon](https://github.com/puregarlic/vscode-cheer/blob/master/images/icon.png?raw=true)
 
 # Cheer!
 
