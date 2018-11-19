@@ -6,8 +6,15 @@
   "engines": {
     "vscode": "^1.29.0"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Other"
+  ],
+  "keywords": [
+    "cheer",
+    "support",
+    "happiness",
+    "save"
   ],
   "activationEvents": [
     "*"
@@ -29,6 +36,21 @@
     "postinstall": "node ./node_modules/vscode/bin/install",
     "test": "node ./node_modules/vscode/bin/test"
   },
+  "publisher": "puregarlic",
+  "author": {
+    "name": "Graham Barber",
+    "email": "grahammbarber@gmail.com",
+    "url": "https://standardresume.co/grahambarber"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puregarlic/vscode-cheer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/puregarlic/vscode-cheer/issues"
+  },
+  "homepage": "https://github.com/puregarlic/vscode-cheer",
   "devDependencies": {
     "@types/mocha": "^2.2.42",
     "@types/node": "^8.10.25",
