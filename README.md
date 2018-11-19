@@ -1,5 +1,5 @@
 <p>
-  <image src="./images/icon.png" width="200">
+  <image src="https://github.com/puregarlic/vscode-cheer/blob/master/images/icon.png?raw=true" width="200">
 </p>
 
 # Cheer!
@@ -18,10 +18,10 @@ Inspired by an Atom extension I used many years ago, and couldn't manage to trac
 
 ## Screenshots
 
-![Screenshot 1](./images/screenshot-1.png)
-![Screenshot 2](./images/screenshot-2.png)
-![Screenshot 3](./images/screenshot-3.png)
-![Screenshot 4](./images/screenshot-4.png)
+![Screenshot 1](https://github.com/puregarlic/vscode-cheer/blob/master/images/screenshot-1.png?raw=true)
+![Screenshot 2](https://github.com/puregarlic/vscode-cheer/blob/master/images/screenshot-2.png?raw=true)
+![Screenshot 3](https://github.com/puregarlic/vscode-cheer/blob/master/images/screenshot-3.png?raw=true)
+![Screenshot 4](https://github.com/puregarlic/vscode-cheer/blob/master/images/screenshot-4.png?raw=true)
 
 ## Contributing
 
