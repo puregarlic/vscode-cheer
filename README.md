@@ -1,5 +1,5 @@
 <p>
-  <image src="images/icon.png" width="200">
+  <image src="./images/icon.png" width="200">
 </p>
 
 # Cheer!
@@ -18,10 +18,10 @@ Inspired by an Atom extension I used many years ago, and couldn't manage to trac
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot-1.png)
-![Screenshot 2](images/screenshot-2.png)
-![Screenshot 3](images/screenshot-3.png)
-![Screenshot 4](images/screenshot-4.png)
+![Screenshot 1](./images/screenshot-1.png)
+![Screenshot 2](./images/screenshot-2.png)
+![Screenshot 3](./images/screenshot-3.png)
+![Screenshot 4](./images/screenshot-4.png)
 
 ## Contributing
 
@@ -39,4 +39,4 @@ Nothing so far! I'd love if you found some.
 
 ## Release Notes
 
-Check in the [changelog](CHANGELOG.md) for info!
+Check in the [changelog](./CHANGELOG.md) for info!
