@@ -1,11 +1,8 @@
-// The module 'vscode' contains the VS Code extensibility API
-// Import the module and reference it with the alias vscode in your code below
 const vscode = require('vscode')
 const { getMessage } = require('./messages')
 
-// this method is called when your extension is activated
-// your extension is activated the very first time the command is executed
 function activate() {
+  // Pull the extension configuration
   const { emoji } = vscode.workspace.getConfiguration('cheer')
   console.log('"vscode-cheer" standing by!')
 

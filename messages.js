@@ -1,5 +1,6 @@
 const getRandomFromArray = require('get-random-from-array')
 
+// Messages pool
 const messages = [
   'Great work!',
   'Keep it up!',
@@ -16,10 +17,10 @@ const messages = [
   "I'm a huge fan of what you're doing!"
 ]
 
-console.log('Moral support messages loaded!')
-
+// Create a random message closure
 const getRandomMessage = getRandomFromArray(messages)
 
+// Return a random message w/ or w/o an emoji
 const getMessage = emoji => {
   return `${emoji ? '🎉 ' : ''}${getRandomMessage()}`
 }
