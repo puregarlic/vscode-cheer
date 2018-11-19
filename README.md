@@ -1,6 +1,4 @@
-<p>
-  <image src="https://github.com/puregarlic/vscode-cheer/blob/master/images/icon.png?raw=true" width="200">
-</p>
+<image src="https://github.com/puregarlic/vscode-cheer/blob/master/images/icon.png?raw=true" width="200">
 
 # Cheer!
 
