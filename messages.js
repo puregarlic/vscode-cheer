@@ -11,10 +11,21 @@ const messages = [
   'Heck yeah!',
   'You look great!',
   'Clever — I like it!',
-  'This project is really coming together.',
+  'This is really coming together.',
   "I'm so proud of you!",
   'This is really great work.',
-  "I'm a huge fan of what you're doing!"
+  "I'm a huge fan of what you're doing!",
+  "Woah, that's awesome!",
+  'This is fantastic!',
+  "Oh, that's super cool.",
+  'Slick!',
+  'This is amazing!',
+  "You're truly amazing.",
+  'Game changing.',
+  "You're a genius!",
+  'That was brilliant!',
+  'That was superb.',
+  "You're going to change the world."
 ]
 
 // Create a random message closure
