@@ -6,13 +6,13 @@
 
 ## Features
 
-Code editors can often be a source of negativity — undefined `this`, unsupported `that`, expected `x` to be of type `y` — it gets tiring after a while. And you can't always rely on your coworkers (if you even have any) for moral support in the moment, since they also have jobs to do. How is a programmer supposed to stay positive?
+Code editors can often be a source of negativity — undefined `this`, unsupported `that`, expected `x` to be of type `y` — all those red lines get tiring after a while. And you can't always rely on your coworkers (if you have any) for moral support in the moment, since they also have jobs to do. How is a programmer supposed to stay positive?
 
 The solution: Cheer!
 
-Cheer displays a random positive message in the status bar whenever you save a file. That's it. That's all it does — give it a try, and feel better about your day and your work!
+**Cheer displays a random positive message in the status bar whenever you save a file.** That's it. That's all it does — give it a try, and feel better about your day and your work!
 
-Inspired by an Atom extension I used many years ago, and couldn't manage to track down again.
+Inspired by an Atom extension I used many years ago, but never managed to track down again.
 
 ## Screenshots
 
